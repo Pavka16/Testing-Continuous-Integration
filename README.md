@@ -1,4 +1,7 @@
 ## Домашнее задание к лекции «Unit-тестирование»
+
+### [Чистые функции](git@github.com:Pavka16/pure-functions.git)
+### [Matchers](git@github.com:Pavka16/matchers.git)
 ---
 ### Важные моменты
 Каждая задача выполняется в виде отдельного проекта с собственным GitHub-репозиторием.
@@ -14,7 +17,7 @@
 
 В личном кабинете на сайте [netology.ru](netology.ru) в поле комментария к домашней работе добавьте ссылки на ваши GitHub-проекты.
 
-## Описание установки
+### Описание установки
 ---
 ```
 npm init
@@ -39,7 +42,3 @@ npm install core-js@3
 ``` js
 npm test
 ```
----
-
-### [Чистые функции](git@github.com:Pavka16/pure-functions.git)
-### [Matchers](git@github.com:Pavka16/matchers.git)
