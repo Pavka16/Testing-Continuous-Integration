@@ -1,7 +1,7 @@
 ## Домашнее задание к лекции «Unit-тестирование»
 
-### [Чистые функции](git@github.com:Pavka16/pure-functions.git)
-### [Matchers](git@github.com:Pavka16/matchers.git)
+### [Чистые функции](https://github.com/Pavka16/pure-functions)
+### [Matchers](https://github.com/Pavka16/matchers)
 ---
 ### Важные моменты
 Каждая задача выполняется в виде отдельного проекта с собственным GitHub-репозиторием.
